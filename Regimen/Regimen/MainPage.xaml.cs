@@ -14,7 +14,7 @@ namespace Regimen
 		{
 			InitializeComponent();
 
-            BindingContext = new DateViewModel();
+            BindingContext = new MainViewModel();
 		}
 	}
 }

@@ -5,7 +5,7 @@
              x:Class="Regimen.MainPage"
              Title="Exercise Regimen">
     <StackLayout>
-        <Label Text="" 
+        <Label Text="{Binding TitleWithCurrentDate}" 
            VerticalOptions="Center" 
            HorizontalOptions="Start"
            FontSize="Large"/>
