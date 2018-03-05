@@ -3,11 +3,23 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Regimen"
              x:Class="Regimen.MainPage"
+             Padding="5"
              Title="Exercise Regimen">
-    <StackLayout>
-        <Label Text="{Binding TitleWithCurrentDate}" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Start"
-           FontSize="Large"/>
-    </StackLayout>
+
+    <ScrollView>
+        <StackLayout>
+            <Label Text="{Binding TitleWithCurrentDate}" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Start"
+                   FontSize="Large"/>
+            <ListView x:Name="ExerciseListView"
+                      ItemsSource="{Binding Exercises}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ScrollView>
 </ContentPage>
