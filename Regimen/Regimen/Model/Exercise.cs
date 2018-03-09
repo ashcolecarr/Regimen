@@ -18,8 +18,8 @@ namespace Regimen.Model
         /// </summary>
         public string Description { get; set; }
         /// <summary>
-        /// The reps
+        /// The routine
         /// </summary>
-        public string Reps { get; set; }
+        public string Routine { get; set; }
     }
 }

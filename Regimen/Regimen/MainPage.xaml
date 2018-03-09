@@ -12,11 +12,18 @@
                    VerticalOptions="Center" 
                    HorizontalOptions="Start"
                    FontSize="Large"/>
-            <ListView x:Name="ExerciseListView"
+            <!-- Make sure HasUnevenRows = True or else some items may be cut off in each cell. -->
+            <ListView x:Name="ExerciseListView" HasUnevenRows="True"
                       ItemsSource="{Binding Exercises}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextCell Text="{Binding Name}" />
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="{Binding Name}" FontSize="Medium"/>
+                                <Label Text="{Binding Description}"/>
+                                <Label Text="{Binding Reps}"/>
+                            </StackLayout>
+                        </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

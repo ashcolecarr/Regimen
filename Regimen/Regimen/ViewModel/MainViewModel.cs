@@ -17,13 +17,16 @@ namespace Regimen.ViewModel
                 List<Exercise> exercises = new List<Exercise>();
                 exercises.Add(new Exercise
                 {
-                    Name = "Running"
+                    Name = "Running",
+                    Description = "Move rapidly.",
+                    Routine = "A lot"
                 });
                 exercises.Add(new Exercise
                 {
-                    Name = "Jumping"
+                    Name = "Jumping",
+                    Description = "Leap high.",
+                    Routine = "A few"
                 });
-
                 return exercises;
             }
         }
