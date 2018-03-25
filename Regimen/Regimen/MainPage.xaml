@@ -8,7 +8,7 @@
 
     <ScrollView>
         <StackLayout>
-            <Label Text="{Binding TitleWithCurrentDate}" 
+            <Label Text="{Binding CurrentDate, StringFormat='Exercise Regimen for {0:N}'}" 
                    VerticalOptions="Center" 
                    HorizontalOptions="Start"
                    FontSize="Large"/>
@@ -20,8 +20,8 @@
                         <ViewCell>
                             <StackLayout Orientation="Vertical">
                                 <Label Text="{Binding Name}" FontSize="Medium"/>
-                                <Label Text="{Binding Description}"/>
-                                <Label Text="{Binding Reps}"/>
+                                <Label Text="{Binding Description}" FontSize="Micro"/>
+                                <Label Text="{Binding Routine, StringFormat='Routine: {0:N}'}" FontSize="Small"/>
                             </StackLayout>
                         </ViewCell>
                     </DataTemplate>
