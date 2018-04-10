@@ -36,6 +36,14 @@ namespace Regimen.ViewModel
                     XmlSerializer serializer = new XmlSerializer(typeof(List<Exercise>));
                     _exercises = (List<Exercise>)serializer.Deserialize(reader);
                 }
+
+                foreach(Exercise exercise in _exercises)
+                {
+                    exercise.Name = exercise.Name.Trim();
+                    exercise.Description = exercise.Description.TrimStart();
+                    exercise.Description = exercise.Description.TrimEnd();
+                    exercise.Routine = exercise.Routine.Trim();
+                }
             }
 
             return _exercises;

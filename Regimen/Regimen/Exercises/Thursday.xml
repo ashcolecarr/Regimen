@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfExercise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Exercise>
+        <Name>
+            Twist and Pivot
+        </Name>
+        <Description>
+            While in a Fighter's Stance (knees bent, hands up), twist and turn torso so that you are pivoting on both feet and driving hips with every big rotation. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Twist and Pivot with Hook and Uppercut
+        </Name>
+        <Description>
+            Same as Twist &amp; Pivot but adding Hooks and Uppercut punches. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Jabs
+        </Name>
+        <Description>
+            Start with right leg forward. Keep hands up and elbows down when throwing Jabs. Switch to left foot forward and repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            30 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Jab-Cross
+        </Name>
+        <Description>
+            Jab with forward arm, then throw a Cross Punch with back arm. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Jab-Cross-Hook
+        </Name>
+        <Description>
+            Jab with forward arm, then throw a Cross Punch with back arm, then Hook with forward arm. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Jab-Cross-Hook-Uppercut
+        </Name>
+        <Description>
+            Jab with forward arm, then throw a Cross Punch with back arm, then Hook with forward arm, then Uppercut with back arm. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Step Drag, High-Low Punch
+        </Name>
+        <Description>
+            Step forward, drag, and throw high and low punch simultaneously. Repeat on other side.
+        </Description>
+        <Routine>
+            30 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Jab-Cross Switch
+        </Name>
+        <Description>
+            Switch feet quickly back and forth in Fighter's Stance between throwing Jab/Cross combinations.
+        </Description>
+        <Routine>
+            20 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Hook-Uppercut Switch
+        </Name>
+        <Description>
+            Same as Jab/Cross but with Hooks and Uppercuts.
+        </Description>
+        <Routine>
+            20 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Knee Kick
+        </Name>
+        <Description>
+            While in Fighter's Stance, extend rear leg back, reach up with both hands (simulate grabbing someone's collar), and in one motion thrust back knee forward and up while simultaneously pulling hands to hips. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            30 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Ball Kick
+        </Name>
+        <Description>
+            Form Fighter's Stance, turn hips square and lift and kick back leg forward. Do 15 reps, then 15 more reps with greater height. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            30 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Side Kick
+        </Name>
+        <Description>
+            From Horse Stance, drag up left heel to right arch. Lean left, Side Kick right. Do 15 reps, then 15 more reps with greater height. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            30 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Back Kick
+        </Name>
+        <Description>
+            From Fighter's Stance with left foot forward, lean forward at waist, turn and look at target, and Mule Kick back behind you. Do 15 reps, then 10 more reps with greater height. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Side Lunge with High Sword-Low Hammer
+        </Name>
+        <Description>
+            With hands up and feet together, lunge sideways, extending lead arm straight in karate-chop motion at neck level, followed by a Hammer Punch with the same hand. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            15 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Step-Drag-Claw-Low Punch
+        </Name>
+        <Description>
+            From Fighter's Stance, lunge forward, extending lead hand with open palm and clawed fingers at eye level. Then follow through with Hammer Punch, pulling clawed hand to hip. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            High Block
+        </Name>
+        <Description>
+            From Horse Stance with palms up and knuckles at hips, thrust or punch arm overhead as if to ward off downward blow. Alternate right and left arms. Each combo counts as 1 rep.
+        </Description>
+        <Routine>
+            30 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Inward Block
+        </Name>
+        <Description>
+            From Horse Stance with palms up and knuckles at hips, thrust arm inward across face. Alternate right and left arms. Each combo counts as 1 rep.
+        </Description>
+        <Routine>
+            30 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Outward Block
+        </Name>
+        <Description>
+            From Horse Stance with palms up and knuckles at hips, thrust or punch arm outward and away from body. Alternate right and left arms. Each combo counts as 1 rep.
+        </Description>
+        <Routine>
+            30 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Downward Block
+        </Name>
+        <Description>
+            From Horse Stance with palms up and knuckles at hips, thrust or punch arm downward and away from body. Alternate right and left arms. Each combo counts as 1 rep.
+        </Description>
+        <Routine>
+            30 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Front Shuffle with High Block-Low Punch
+        </Name>
+        <Description>
+            Step forward and High Block simultaneously. Big hip turn and follow through with second Hammer Punch. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            25 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Knee-Back Kick
+        </Name>
+        <Description>
+            While in Fighter's Stance, extend rear leg back reach up with both hands (simulate grabbing someone's collar), and in one motion thrust back knee forward and up while simultaneously pulling hands to hips. Then lean and pivot on lead foot, followed by Side Mule Kick. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            15 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Front and Back Knuckles, Ball Kick, Back Kick
+        </Name>
+        <Description>
+            From Fighter's Stance, Back Knuckle front and back, followed by Ball Kick then Back Kick. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            10 reps per side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Hook, Uppercut, Low Side Kick
+        </Name>
+        <Description>
+            From Fighter's Stance with left foot forward, Hook left, Uppercut right, Side Kick right. Repeat sequence on opposite side.
+        </Description>
+        <Routine>
+            10 reps per side
+        </Routine>
+    </Exercise>
+</ArrayOfExercise>

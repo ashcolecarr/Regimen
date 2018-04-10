@@ -5,7 +5,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Exercises\Friday.xml" />
+    <None Remove="Exercises\Monday.xml" />
+    <None Remove="Exercises\Saturday.xml" />
+    <None Remove="Exercises\Thursday.xml" />
+    <None Remove="Exercises\Tuesday.xml" />
+    <None Remove="Exercises\Wednesday.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Exercises\Friday.xml" />
+    <EmbeddedResource Include="Exercises\Monday.xml" />
+    <EmbeddedResource Include="Exercises\Saturday.xml" />
     <EmbeddedResource Include="Exercises\Sunday.xml" />
+    <EmbeddedResource Include="Exercises\Thursday.xml" />
+    <EmbeddedResource Include="Exercises\Tuesday.xml" />
+    <EmbeddedResource Include="Exercises\Wednesday.xml" />
   </ItemGroup>
 
   <ItemGroup>

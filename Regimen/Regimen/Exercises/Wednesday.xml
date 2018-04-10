@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfExercise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Exercise>
+        <Name>
+            Bicep Curls
+        </Name>
+        <Description>
+            Hold dumbbells at sides.  Bring up dumbbells one at a time, alternating arms.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Military Press
+        </Name>
+        <Description>
+            Sitting down, hold dumbbells out to side of head.  Press dumbbells straight up and out.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Hammer Curls
+        </Name>
+        <Description>
+            Hold dumbbells at sides.  Bring up both dumbbells simultaneously without rotating arms.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Tricep Kickbacks
+        </Name>
+        <Description>
+            Bend over and hold dumbbells at sides with arms making a 90 degre angle.  Bring arms up and back.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Shoulder Shrug
+        </Name>
+        <Description>
+            Stand up and hold one dumbbell with each hand in front of your thighs, palms facing your body. Raise the dumbbells straight up by raising your shoulders.
+        </Description>
+        <Routine>
+            3 sets of 10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Overhead Tricep Extensions
+        </Name>
+        <Description>
+            Sitting down, hold dumbbell over head behind back with both hands.  Lift dumbbell straight overhead.
+        </Description>
+        <Routine>
+            3 sets of 10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Walkout
+        </Name>
+        <Description>
+            Stand with feet hip-width apart. Bend knees slightly (or more if needed) and place both hands flat on the ground. Keeping legs extended and feet planted, walk your hands away from your body, as far past your shoulders as you can, until you are in a full plank position. Hold for one count at the furthest point, and then walk hands back to feet and slowly return to standing.
+        </Description>
+        <Routine>
+            10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Two-Point Plank
+        </Name>
+        <Description>
+            Assume a push up position. Raise right hand and left leg out to form a straight line with body, hold for two counts, then return to plank position and repeat with the other arm and leg.
+        </Description>
+        <Routine>
+            2 sets of 10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Side Plank
+        </Name>
+        <Description>
+            Start on left side with hand on floor below shoulder, feet stacked. Lift hips into the air.
+        </Description>
+        <Routine>
+            30 seconds each side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Boat Pose
+        </Name>
+        <Description>
+            Sit with knees bent and together, feet slightly lifted off the floor. Reach arms forward and shift weight into sit bones, draw abs in tight, and lift your chest. Forming a ‘V’ shape with body.
+        </Description>
+        <Routine>
+            30 seconds
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Reverse Curl and Lift
+        </Name>
+        <Description>
+            Lie flat on back with both hands behind head, legs extended out with heels lifted about six inches off the floor, toes pointed. Contract abs, bend and draw knees into chest, and raise hips slightly off the floor. Slowly lower back to the start position.
+        </Description>
+        <Routine>
+            3 sets of 8 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Torso Twist Hold
+        </Name>
+        <Description>
+            Lie on back with arms out at sides. Lift legs skyward, and tilt them to the right at a 45-degree angle. After 30-second hold, slowly swing legs over to the left side and repeat hold. Modify by lessening the leg-to-body angle. To intensify: Close gap between torso and legs.
+        </Description>
+        <Routine>
+            15 seconds each side
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Deep Torso Twist Hold
+        </Name>
+        <Description>
+            Extend legs further out to side, a few inches off ground. Repeat on other side. To intensify: Close gap between torso and legs.
+        </Description>
+        <Routine>
+            15 seconds each side
+        </Routine>
+    </Exercise>
+</ArrayOfExercise>

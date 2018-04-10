@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfExercise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Exercise>
+        <Name>
+            Weighted Pushup
+        </Name>
+        <Description>
+            Assume a pushup position wearing a weight vest; arms should be straight and hands slightly wider than shoulders. Bend at elbows and lower body until chest nearly touches the floor. Pause, and push body back up.
+        </Description>
+        <Routine>
+            3 sets of 10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Renegade Row
+        </Name>
+        <Description>
+            Start in the high plank position and with a dumbbell in each hand. Slowly pull one dumbbell upwards towards the chest and keep the elbow close to the body. Lower it back down and switch to the opposite hand.
+        </Description>
+        <Routine>
+            3 sets of 10 reps
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Chest Squeeze Pushup
+        </Name>
+        <Description>
+            Place two dumbbells next to each other so that they’re touching with the handles parallel to each other. Perform a pushup while grabbing a dumbbell handle with each hand.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Dumbbell Row
+        </Name>
+        <Description>
+            Lean one knee on bench, with dumbbell in opposite-side hand. Pull be dumbbell up and then slowly lower it down; hold dumbbell at bottom.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Single Arm Chest Press
+        </Name>
+        <Description>
+            Lying on bench, press a dumbbell up using only one arm at time.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+    <Exercise>
+        <Name>
+            Cross Bench Pullovers
+        </Name>
+        <Description>
+            Lie across bench the short way, reach over head, and grab dumbbell with both hands.  Pull dumbbell over head to chest and back again.
+        </Description>
+        <Routine>
+            3 sets of 10 reps each
+        </Routine>
+    </Exercise>
+</ArrayOfExercise>
